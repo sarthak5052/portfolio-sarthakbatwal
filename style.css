@@ -8,7 +8,7 @@
 
 body {
   font-family: Poppins;
-  background: radial-gradient(circle at top,#123B30, #071713 70%);
+  background: radial-gradient(circle at top,#000000, #071713 70%);
   color: #e2e8f0;
   cursor: crosshair;
 }
